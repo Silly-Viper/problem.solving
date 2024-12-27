@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Silly-Viper/problem.solving/tree/master/1603-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/Silly-Viper/problem.solving/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
